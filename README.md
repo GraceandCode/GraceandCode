@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Grace 
 
-🔭 I’m studying Computing and Inforamtion Systems at the Athabasca University </br>
+🔭 I’m studying Computing and Information Systems at the Athabasca University </br>
 🌱 Background experience in Software Quality Assurance / Software Testing </br>
 🤔 Aspiring to become a Full-stack Developer </br>
 💬 Currently learning about AI and Machine Learning </br>
